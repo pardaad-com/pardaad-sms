@@ -21,3 +21,14 @@ You can send SMS from your WordPress website using Sunway's SMS webservice
 * Latest release versions of WordPress, Elementor and Elementor Pro
 * PHP version 7.0 or greater (PHP 7.4 or greater is recommended)
 * MySQL version 5.6 or greater
+
+### Installation Manual
+
+1. Downloa latest release from [this link](https://github.com/pardaad/pardaad-sms/releases)
+2. Upload the pardaad-sms.zip to your wordpress wp-content/plugins directory and unzip in it or directly upload from add plugin menu in your wordpress plugins menu
+3. Activate plugin
+4. Create an Elementor PRO form and select SMS With SunWay as an after submit action
+5. Configure your sms panel details
+6. Build your form (you can use the SunWay - Mobile Number, as your visitors mobile number field)
+7. Copy & paste your mibile number field ID in the "SMS With Sunway Tab"
+8. Hooray! Finished.
