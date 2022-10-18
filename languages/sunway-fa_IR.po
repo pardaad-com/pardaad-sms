@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SunWaySMS Elementor AddOn\n"
+"POT-Creation-Date: 2022-10-18 13:41+0300\n"
+"PO-Revision-Date: 2022-10-18 13:41+0300\n"
+"Last-Translator: \n"
+"Language-Team: SunWay\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/elementor-action.php:16 includes/elementor-action.php:25
+msgid "Send SMS By Sunway"
+msgstr "پیامک با سان‌وی"
+
+#: includes/elementor-action.php:35
+msgid "Message Text"
+msgstr "متن پیامک ارسالی"
+
+#: includes/elementor-action.php:43
+msgid "Reciever Number"
+msgstr "شماره گیرنده"
+
+#: includes/elementor-action.php:45
+msgid "Write mobile number field id, in example: mobile"
+msgstr "مقدار id فیلد شماره موبایل را وارد کنید، برای مثال: mobile"
+
+#: includes/elementor-action.php:52
+msgid "Username"
+msgstr "نام کاربری سامانه"
+
+#: includes/elementor-action.php:60
+msgid "Password"
+msgstr "رمز عبور سامانه"
+
+#: includes/elementor-action.php:68
+msgid "Sender Number"
+msgstr "شماره اختصاصی"
+
+#: includes/elementor-fields/mobile-number.php:17
+msgid "SunWay - Iran Mobile Number"
+msgstr "سان‌وی - شماره موبایل ایران"
+
+#: includes/elementor-fields/mobile-number.php:45
+#: includes/elementor-fields/national-id.php:46
+#: includes/elementor-fields/persian-input.php:45
+msgid "Placeholder"
+msgstr "متن نگه دانده (Placeholder)"
+
+#: includes/elementor-fields/mobile-number.php:47
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: includes/elementor-fields/mobile-number.php:69
+msgid "Please enter your mobile number"
+msgstr "لطفا شماره موبایل خود را وارد کنید"
+
+#: includes/elementor-fields/mobile-number.php:75
+msgid "The mobile number is invalid"
+msgstr "شماره موبایل اشتباه است"
+
+#: includes/elementor-fields/national-id.php:17
+msgid "SunWay - Iranian National ID"
+msgstr "سان‌وی - کدملی ایران"
+
+#: includes/elementor-fields/national-id.php:48
+msgid "National ID"
+msgstr "کدملی"
+
+#: includes/elementor-fields/national-id.php:71
+msgid "Please enter your ID number"
+msgstr "لطفا کدملی خود را وارد کنید"
+
+#: includes/elementor-fields/national-id.php:77
+#: includes/elementor-fields/national-id.php:83
+#: includes/elementor-fields/national-id.php:93
+msgid "ID number is invalid"
+msgstr "کدملی اشتباه است"
+
+#: includes/elementor-fields/persian-input.php:17
+msgid "SunWay - Only Persian character"
+msgstr "سان‌وی - فقط حروف فارسی"
+
+#: includes/elementor-fields/persian-input.php:70
+msgid "Must be in persian"
+msgstr "باید فارسی باشد"
+
+#: pardaad-sms.php:61
+#, php-format
+msgid "SunWay requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+"برای فعال شدن پلاگین سان‌وی شما باید از PHP نسخه %s به بالا استفاده کنید که "
+"در حال حاضر نسخه شما پایین‌تر است."
+
+#: pardaad-sms.php:77
+#, php-format
+msgid ""
+"SunWay requires WordPress version %s+. Because you are using an earlier "
+"version, the plugin is currently NOT RUNNING."
+msgstr ""
+"SunWay به نسخه وردپرس %s+ نیاز دارد. از آنجایی که از نسخه قبلی استفاده می "
+"کنید، افزونه در حال حاضر اجرا نمی شود."
+
+#~ msgid "SMS gateway settings"
+#~ msgstr "تنظیمات وب‌سرویس پیامک"
+
+#~ msgid "Settings Saved"
+#~ msgstr "تنظیمات ذخیره شد"
+
+#~ msgid "Mobile Number Field Label"
+#~ msgstr "لیبل فیلد شماره موبایل گیرنده"
+
+#~ msgid "Name Field Label"
+#~ msgstr "لیبل فیلد نام"
+
+#~ msgid "Name (only persian character)"
+#~ msgstr "نام (فقط به حروف فارسی)"
+
+#~ msgid "Please enter "
+#~ msgstr "پرکنید "
+
+#, php-format
+#~ msgid ""
+#~ "You can use following parameters in your message: <pre>%%name%%</pre><pre>"
+#~ "%%number%%</pre>"
+#~ msgstr ""
+#~ "شما می‌توانید از پارامترهای زیر در متن پیامک استفاده کنید: <pre>%%name%%</"
+#~ "pre><pre>%%number%%</pre>"
